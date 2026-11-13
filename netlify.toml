@@ -1,0 +1,8 @@
+[build]
+  base = "."
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/osvira-monitoring-website-1.html"
+  status = 200
